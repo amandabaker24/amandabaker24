@@ -1,4 +1,4 @@
-# <span style="color:#ff69b4"> Hi there👋,  my name is Amanda Baker!</span>
+# Hi there👋, my name is Amanda Baker!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-baker2/)
 
 # 👩🏻‍💻About Me
