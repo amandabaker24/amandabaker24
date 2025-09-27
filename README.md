@@ -1,6 +1,5 @@
 # Hi there👋, my name is Amanda Baker 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff69b4?logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/amanda-baker2/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-baker2/)
 
 ## 👩🏻‍💻About Me
 Welcome to my little corner of the internet where I turn caffeine into code and dreams into software! I'm a Senior Computer Science student at GSU, on a mission to conquer the digital world one algorithm at a time. 🚀
