@@ -1,4 +1,7 @@
 # Hi there👋, my name is Amanda Baker 
+<a href="www.linkedin.com/in/amanda-baker2">
+  <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" height="28" />
+</a>
 
 ## 👩🏻‍💻About Me
 Welcome to my little corner of the internet where I turn caffeine into code and dreams into software! I'm a Senior Computer Science student at GSU, on a mission to conquer the digital world one algorithm at a time. 🚀
