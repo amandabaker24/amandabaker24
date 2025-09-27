@@ -1,5 +1,5 @@
 # Hi there👋, my name is Amanda Baker 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff69b4?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-baker2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-ff69b4?logo=linkedin&logoColor=pink)](https://www.linkedin.com/in/amanda-baker2/)
 
 
 ## 👩🏻‍💻About Me
