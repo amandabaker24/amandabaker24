@@ -9,4 +9,30 @@ Welcome to my little corner of the internet where I turn caffeine into code and 
 ## 👩‍🍳I’m currently working on Nori - your kitchen sidekick 
 Nori’s the AI buddy that lives on your counter with a smart eye on your pantry. She remembers what you’ve got, suggests tasty recipes on the fly, and even chats with you like a foodie friend. Hungry but only see eggs and onions? Nori’s got your back with quick, clever ideas. Think of her as Alexa’s foodie cousin — part chef, part organizer, all flavor.
 
+#### Languages
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![Cpp](https://skillicons.dev/icons?i=cpp)
+![Go](https://skillicons.dev/icons?i=go)
+![Js](https://skillicons.dev/icons?i=js)
+![Ts](https://skillicons.dev/icons?i=ts)
+![Php](https://skillicons.dev/icons?i=php)
+![R](https://skillicons.dev/icons?i=r)
+![Html](https://skillicons.dev/icons?i=html)
+![Css](https://skillicons.dev/icons?i=css)
+![Sql](https://skillicons.dev/icons?i=mysql)
 
+#### Frameworks & Tools
+![React](https://skillicons.dev/icons?i=react)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![TensorFlow](https://skillicons.dev/icons?i=tensorflow)
+![Pytorch](https://skillicons.dev/icons?i=pytorch)
+![Aws](https://skillicons.dev/icons?i=aws)
+![Gcp](https://skillicons.dev/icons?i=gcp)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Vercel](https://skillicons.dev/icons?i=vercel)
+![Jenkins](https://skillicons.dev/icons?i=jenkins)
+![Postgresql](https://skillicons.dev/icons?i=postgres)
+![Git](https://skillicons.dev/icons?i=git)
